@@ -1,0 +1,1316 @@
+[2024-08-12 23:45:25] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:45:27] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:45:27] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:45:27] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:45:27] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:45:27] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:45:27] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:45:27] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:45:27] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:45:31] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:45:31] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:45:31] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:45:31] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:45:31] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:45:31] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:45:31] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:45:31] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:45:40] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:45:40] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:45:40] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:45:40] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:45:40] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:45:40] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:45:40] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:45:40] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:45:54] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:45:54] Debug: libpng: iCCP: known incorrect sRGB profile
+[2024-08-12 23:45:54] Debug: Image size out of bounds: FaceSet/SR_another_system_faceinfo (192x192 < 192x96 < 192x192)
+[2024-08-12 23:46:23] Debug: Image size out of bounds: FaceSet/SR_another_system_faceinfo (192x192 < 192x96 < 192x192) [2x]
+[2024-08-12 23:46:23] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:46:23] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:46:23] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:46:23] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:46:23] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:46:23] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:46:23] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:46:27] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:46:27] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:46:27] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:46:27] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:46:27] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:46:27] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:46:27] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:46:27] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:46:30] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:46:30] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:46:30] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:46:30] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:46:30] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:46:30] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:46:30] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:46:30] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:46:33] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:46:33] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:46:33] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:46:33] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:46:33] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:46:33] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:46:33] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:46:33] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:46:36] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:46:36] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:46:36] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:46:36] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:46:36] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:46:36] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:46:36] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:46:36] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:46:39] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:46:39] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:46:39] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:46:39] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:46:39] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:46:39] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:46:39] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:46:39] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:46:40] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:46:40] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:46:40] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:46:40] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:46:40] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:46:40] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:46:40] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:46:40] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:46:59] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:46:59] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:46:59] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:46:59] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:46:59] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:46:59] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:46:59] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:46:59] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:47:01] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:47:01] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:01] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:47:01] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:01] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:01] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:47:01] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:01] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:47:02] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:47:02] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:02] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:47:02] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:02] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:02] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:47:02] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:02] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:47:04] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:47:04] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:04] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:47:04] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:04] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:04] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:47:04] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:04] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:47:06] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:47:06] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:06] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:47:06] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:06] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:06] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:47:06] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:06] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:47:19] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:47:19] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:19] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:47:19] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:19] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:19] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:47:19] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:19] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:47:24] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:47:24] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:24] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:47:24] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:24] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:24] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:47:24] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:24] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:47:25] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:47:25] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:25] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:47:25] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:25] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:25] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:47:25] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:25] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:47:26] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:47:26] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:26] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:47:26] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:26] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:26] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:47:26] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:26] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:47:30] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:47:30] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:30] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:47:30] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:30] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:30] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:47:30] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:30] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:47:35] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:47:35] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:35] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:47:35] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:35] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:35] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:47:35] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:35] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:47:37] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:47:37] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:37] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:47:37] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:37] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:37] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:47:37] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:37] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:47:39] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:47:39] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:39] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:47:39] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:39] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:39] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:47:39] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:39] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:47:39] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:47:39] Debug: libpng: iCCP: known incorrect sRGB profile
+[2024-08-12 23:47:40] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:40] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:47:40] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:40] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:40] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:47:40] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:40] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:47:41] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:47:41] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:41] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:47:41] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:41] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:41] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:47:41] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:41] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:47:42] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:47:42] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:42] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:47:42] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:42] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:42] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:47:42] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:42] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:47:44] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:47:44] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:44] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:47:44] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:44] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:47:44] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:47:44] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:47:44] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:05] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:05] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:05] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:05] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:05] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:05] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:05] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:05] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:07] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:07] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:07] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:07] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:07] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:07] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:07] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:07] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:08] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:08] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:08] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:08] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:08] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:08] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:08] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:08] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:10] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:10] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:10] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:10] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:10] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:10] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:10] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:10] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:11] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:11] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:11] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:11] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:11] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:11] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:11] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:11] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:11] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:11] Debug: Fluidsynth: Could not load soundfont.
+[2024-08-12 23:48:11] Debug: WildMidi: Could not find configuration file.
+[2024-08-12 23:48:12] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:12] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:12] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:12] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:13] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:13] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:13] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:13] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:13] Debug: libpng: iCCP: known incorrect sRGB profile
+[2024-08-12 23:48:13] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:13] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:13] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:13] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:14] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:14] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:14] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:15] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:15] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:15] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:15] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:15] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:15] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:15] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:15] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:18] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:18] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:18] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:18] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:18] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:18] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:18] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:18] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:20] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:20] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:20] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:20] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:20] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:20] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:20] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:20] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:21] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:21] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:21] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:21] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:21] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:21] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:21] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:21] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:23] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:23] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:23] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:23] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:23] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:23] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:23] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:23] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:24] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:24] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:24] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:24] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:24] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:24] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:24] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:24] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:25] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:25] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:25] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:25] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:25] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:25] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:25] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:25] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:28] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:28] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:28] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:28] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:28] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:28] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:28] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:28] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:29] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:29] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:29] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:29] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:29] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:29] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:29] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:29] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:30] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:30] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:30] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:30] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:30] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:30] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:30] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:30] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:30] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:30] Debug: libpng: iCCP: known incorrect sRGB profile
+[2024-08-12 23:48:32] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:32] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:32] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:32] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:32] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:32] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:32] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:34] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:34] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:34] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:34] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:34] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:34] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:34] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:34] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:36] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:36] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:36] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:36] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:36] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:36] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:36] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:36] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:38] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:38] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:38] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:38] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:38] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:38] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:38] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:38] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:40] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:40] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:40] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:40] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:40] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:40] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:40] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:40] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:41] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:41] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:41] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:41] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:41] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:41] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:41] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:41] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:43] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:43] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:43] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:43] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:43] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:43] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:43] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:43] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:45] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:45] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:45] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:45] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:45] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:45] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:45] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:45] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:46] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:46] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:46] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:46] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:46] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:46] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:46] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:46] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:48:58] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:48:58] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:58] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:48:58] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:58] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:48:58] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:48:58] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:48:58] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:49:00] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:49:00] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:00] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:49:00] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:00] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:00] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:49:00] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:00] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:49:01] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:49:01] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:01] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:49:01] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:01] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:01] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:49:01] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:01] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:49:03] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:49:03] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:03] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:49:03] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:03] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:03] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:49:03] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:03] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:49:04] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:49:04] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:04] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:49:04] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:04] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:04] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:49:04] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:04] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:49:07] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:49:07] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:07] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:49:07] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:07] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:07] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:49:07] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:07] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:49:09] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:49:09] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:09] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:49:09] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:09] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:09] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:49:09] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:09] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:49:12] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:49:12] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:12] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:49:12] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:12] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:12] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:49:12] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:12] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:49:13] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:49:13] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:13] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:49:13] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:13] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:13] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:49:13] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:13] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:49:15] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:49:15] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:15] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:49:15] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:15] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:15] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:49:15] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:15] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:49:48] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:49:48] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:48] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:49:48] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:48] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:48] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:49:48] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:48] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:49:57] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:49:57] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:57] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:49:57] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:57] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:49:57] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:49:57] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:49:57] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:49:57] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:49:57] Debug: libpng: iCCP: known incorrect sRGB profile
+[2024-08-12 23:50:04] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:04] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:50:04] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:04] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:04] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:50:04] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:04] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:50:05] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:50:05] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:05] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:50:05] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:05] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:05] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:50:05] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:05] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:50:10] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:50:10] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:10] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:50:10] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:10] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:10] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:50:10] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:10] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:50:12] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:50:12] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:12] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:50:12] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:12] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:12] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:50:12] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:12] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:50:14] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:50:14] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:14] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:50:14] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:14] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:14] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:50:14] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:14] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:50:16] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:50:16] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:16] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:50:16] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:16] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:16] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:50:16] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:16] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:50:33] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:50:33] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:33] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:50:33] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:33] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:33] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:50:33] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:33] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:50:34] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:50:34] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:34] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:50:34] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:34] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:34] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:50:34] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:34] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:50:36] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:50:36] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:36] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:50:36] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:36] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:36] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:50:36] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:36] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:50:38] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:50:38] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:38] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:50:38] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:38] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:38] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:50:38] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:38] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:50:42] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:50:42] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:42] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:50:42] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:42] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:42] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:50:42] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:42] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:50:45] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:50:45] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:45] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:50:45] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:45] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:45] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:50:45] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:45] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:50:59] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:50:59] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:59] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:50:59] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:59] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:50:59] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:50:59] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:50:59] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:51:02] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:51:02] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:51:02] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:51:02] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:51:02] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:51:02] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:51:02] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:51:02] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:51:05] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:51:05] Debug: libpng: iCCP: known incorrect sRGB profile
+[2024-08-12 23:51:05] Debug: Image size out of bounds: FaceSet/SR_another_system_faceinfo (192x192 < 192x96 < 192x192)
+[2024-08-12 23:51:12] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:51:12] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:51:12] Debug: Loaded Map Map0006.lmu
+[2024-08-12 23:51:12] Debug: Tree: MAP0006 旧ｻｳﾝﾄﾞﾙｰﾑ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:51:46] Debug: Loaded Map Map0002.lmu
+[2024-08-12 23:51:46] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:51:46] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:51:46] Debug: Loaded Map Map0899.lmu
+[2024-08-12 23:51:46] Debug: Tree: MAP0899 壁紙ｷﾞｬﾗﾘｰ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:51:46] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:51:46] Debug: Loaded Map Map0002.lmu
+[2024-08-12 23:51:46] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:51:48] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:51:48] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:51:48] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:51:48] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:51:48] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:51:48] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:51:49] Debug: Loaded Map Map0620.lmu
+[2024-08-12 23:51:49] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:51:49] Debug: libpng: iCCP: known incorrect sRGB profile
+[2024-08-12 23:51:49] Debug: Image size out of bounds: FaceSet/SR_another_system_faceinfo (192x192 < 192x96 < 192x192)
+[2024-08-12 23:51:50] Debug: Invalid write var[0] = 0!
+[2024-08-12 23:51:50] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:51:51] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-12 23:51:51] Debug: Image size out of bounds: FaceSet/SR_another_system_faceinfo (192x192 < 192x96 < 192x192)
+[2024-08-12 23:51:53] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:51:53] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:51:53] Debug: Loaded Map Map0002.lmu
+[2024-08-12 23:51:53] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:51:53] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:51:53] Debug: Loaded Map Map0899.lmu
+[2024-08-12 23:51:53] Debug: Tree: MAP0899 壁紙ｷﾞｬﾗﾘｰ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:51:53] Debug: SetVehicleLocation: Party referenced
+[2024-08-12 23:51:53] Debug: Loaded Map Map0002.lmu
+[2024-08-12 23:51:53] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:51:56] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-12 23:51:56] Debug: Saving to Save01.lsd
+[2024-08-12 23:52:02] Debug: Loaded Map Map0900.lmu
+[2024-08-12 23:52:02] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:52:02] Debug: Loaded Map Map0005.lmu
+[2024-08-12 23:52:02] Debug: Tree: MAP0005 夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-12 23:52:06] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-08-12 23:52:06] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2024-08-12 23:52:06] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2024-08-12 23:52:06] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-08-12 23:52:06] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2024-08-12 23:52:06] Debug: Resolution changed to 320x240
+[2024-08-12 23:52:11] Debug: Configuration saved to C:/Users/robmc/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-08-13 12:41:37] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-08-13 12:41:37] Debug: =======================================
+[2024-08-13 12:41:37] Debug: CLI: 
+[2024-08-13 12:41:37] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-08-13 12:41:37] Debug: Seeded the RNG with 1723545689.
+[2024-08-13 12:41:37] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-08-13 12:41:37] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-08-13 12:41:37] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-08-13 12:41:37] Debug: Detected encoding: ibm-943_P15A-2003
+[2024-08-13 12:41:37] Debug: Game and Save Directory:
+[2024-08-13 12:41:37] Debug: 1: [Native]  -> ゆめ2っき
+[2024-08-13 12:41:37] Debug: Loading game ゆめ2っき
+[2024-08-13 12:41:37] Debug: Analyzing RPG_RT ゆめ2っき/RPG_RT.exe
+[2024-08-13 12:41:37] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2024-08-13 12:41:37] Debug: ExFont loaded from RPG_RT
+[2024-08-13 12:41:37] Debug: EXEReader: VERSIONINFO not found
+[2024-08-13 12:41:37] Debug: RPG_RT information: version= logos=1 i386=true easyrpg=false
+[2024-08-13 12:41:37] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2024-08-13 12:41:37] Debug: RTP path C:\Users\robmc\Documents\RTP\ is invalid, not adding
+[2024-08-13 12:41:37] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-08-13 12:41:37] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-08-13 12:41:37] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2024-08-13 12:41:37] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2024-08-13 12:41:37] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-08-13 12:41:37] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2024-08-13 12:41:37] Debug: Cannot find: Font/Font
+[2024-08-13 12:41:37] Debug: Cannot find: Font/Font2
+[2024-08-13 12:41:37] Debug: Resolution changed to 320x240
+[2024-08-13 12:41:45] Debug: Configuration saved to C:/Users/robmc/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-08-13 12:41:45] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-08-13 12:41:45] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2024-08-13 12:41:45] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2024-08-13 12:41:45] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-08-13 12:41:45] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2024-08-17 21:41:56] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-08-17 21:41:56] Debug: =======================================
+[2024-08-17 21:41:56] Debug: CLI: 
+[2024-08-17 21:41:56] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-08-17 21:41:56] Debug: Seeded the RNG with 1723923711.
+[2024-08-17 21:41:56] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-08-17 21:41:56] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-08-17 21:41:56] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-08-17 21:41:56] Debug: Detected encoding: ibm-943_P15A-2003
+[2024-08-17 21:41:56] Debug: Game and Save Directory:
+[2024-08-17 21:41:56] Debug: 1: [Native]  -> ゆめ2っき
+[2024-08-17 21:41:56] Debug: Loading game ゆめ2っき
+[2024-08-17 21:41:56] Debug: Analyzing RPG_RT ゆめ2っき/RPG_RT.exe
+[2024-08-17 21:41:56] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2024-08-17 21:41:56] Debug: ExFont loaded from RPG_RT
+[2024-08-17 21:41:56] Debug: EXEReader: VERSIONINFO not found
+[2024-08-17 21:41:56] Debug: RPG_RT information: version= logos=1 i386=true easyrpg=false
+[2024-08-17 21:41:56] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2024-08-17 21:41:56] Debug: RTP path C:\Users\robmc\Documents\RTP\ is invalid, not adding
+[2024-08-17 21:41:56] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-08-17 21:41:56] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-08-17 21:41:56] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2024-08-17 21:41:56] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2024-08-17 21:41:56] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-08-17 21:41:56] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2024-08-17 21:41:56] Debug: Cannot find: Font/Font
+[2024-08-17 21:41:56] Debug: Cannot find: Font/Font2
+[2024-08-17 21:41:56] Debug: Resolution changed to 320x240
+[2024-08-17 21:42:04] Info: Configuration saved to C:/Users/robmc/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-08-17 21:42:12] Debug: Changing language to: 'en'
+[2024-08-17 21:42:12] Debug: Translation loaded 1 sys, 0 common, 1 battle, and 128 map .po files
+[2024-08-17 21:42:13] Debug: Cannot find: Font/Font
+[2024-08-17 21:42:13] Debug: Cannot find: Font/Font2
+[2024-08-17 21:42:13] Debug: Resolution changed to 320x240
+[2024-08-17 21:42:43] Debug: Loading Save Save01.lsd
+[2024-08-17 21:42:43] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2024-08-17 21:42:43] Debug: Loaded Map Map0002.lmu
+[2024-08-17 21:42:43] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:42:44] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-17 21:42:45] Debug: SetVehicleLocation: Party referenced
+[2024-08-17 21:42:45] Debug: Loaded Map Map0899.lmu
+[2024-08-17 21:42:45] Debug: Tree: MAP0899 壁紙ｷﾞｬﾗﾘｰ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:42:45] Debug: Event 2 exceeded execution limit
+[2024-08-17 21:42:45] Debug: SetVehicleLocation: Party referenced
+[2024-08-17 21:42:45] Debug: Loaded Map Map0620.lmu
+[2024-08-17 21:42:45] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:42:45] Debug: Event 2 exceeded execution limit
+[2024-08-17 21:42:45] Debug: Event 1 exceeded execution limit
+[2024-08-17 21:42:45] Debug: Event 2 exceeded execution limit
+[2024-08-17 21:42:45] Debug: Event 2 exceeded execution limit [2x]
+[2024-08-17 21:42:45] Debug: Event 1 exceeded execution limit
+[2024-08-17 21:42:45] Debug: Event 1 exceeded execution limit [2x]
+[2024-08-17 21:42:45] Debug: SetVehicleLocation: Party referenced
+[2024-08-17 21:42:45] Debug: Loaded Map Map0002.lmu
+[2024-08-17 21:42:45] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:42:59] Debug: Loaded Map Map0150.lmu
+[2024-08-17 21:42:59] Debug: Tree: MAP0150 雲_ﾊﾟｽﾞﾙｹﾞｰﾑ < MAP0141 kuraud slot < MAP0010 扉部屋
+[2024-08-17 21:45:07] Debug: Loaded Map Map0002.lmu
+[2024-08-17 21:45:07] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:45:07] Debug: Event 0 exceeded execution limit
+[2024-08-17 21:45:12] Debug: SetVehicleLocation: Party referenced
+[2024-08-17 21:45:12] Debug: Loaded Map Map0899.lmu
+[2024-08-17 21:45:12] Debug: Tree: MAP0899 壁紙ｷﾞｬﾗﾘｰ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:45:12] Debug: SetVehicleLocation: Party referenced
+[2024-08-17 21:45:12] Debug: Loaded Map Map0002.lmu
+[2024-08-17 21:45:12] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:45:12] Debug: SetVehicleLocation: Party referenced
+[2024-08-17 21:45:12] Debug: Loaded Map Map0899.lmu
+[2024-08-17 21:45:12] Debug: Tree: MAP0899 壁紙ｷﾞｬﾗﾘｰ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:45:12] Debug: Event 2 exceeded execution limit
+[2024-08-17 21:45:12] Debug: SetVehicleLocation: Party referenced
+[2024-08-17 21:45:12] Debug: Loaded Map Map0620.lmu
+[2024-08-17 21:45:12] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:45:12] Debug: Event 2 exceeded execution limit
+[2024-08-17 21:45:12] Debug: Event 1 exceeded execution limit
+[2024-08-17 21:45:12] Debug: Event 1 exceeded execution limit [2x]
+[2024-08-17 21:45:12] Debug: Event 2 exceeded execution limit
+[2024-08-17 21:45:12] Debug: Event 2 exceeded execution limit [3x]
+[2024-08-17 21:45:12] Debug: SetVehicleLocation: Party referenced
+[2024-08-17 21:45:12] Debug: Loaded Map Map0002.lmu
+[2024-08-17 21:45:12] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:45:12] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-17 21:45:13] Debug: Saving to Save01.lsd
+[2024-08-17 21:45:18] Debug: Loaded Map Map0003.lmu
+[2024-08-17 21:45:18] Debug: Tree: MAP0003 現実ﾍﾞﾗﾝﾀﾞ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:45:22] Debug: Loaded Map Map0002.lmu
+[2024-08-17 21:45:22] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:45:22] Debug: Event 0 exceeded execution limit
+[2024-08-17 21:45:26] Debug: Loaded Map Map0003.lmu
+[2024-08-17 21:45:26] Debug: Tree: MAP0003 現実ﾍﾞﾗﾝﾀﾞ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:45:37] Debug: Loaded Map Map0002.lmu
+[2024-08-17 21:45:37] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:45:37] Debug: Event 0 exceeded execution limit
+[2024-08-17 21:45:42] Debug: Loaded Map Map0900.lmu
+[2024-08-17 21:45:42] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:45:42] Debug: Loaded Map Map0005.lmu
+[2024-08-17 21:45:42] Debug: Tree: MAP0005 夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:46:08] Debug: Loaded Map Map0004.lmu
+[2024-08-17 21:46:08] Debug: Tree: MAP0004 夢部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:03] Debug: Loaded Map Map0005.lmu
+[2024-08-17 21:47:03] Debug: Tree: MAP0005 夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:04] Debug: Loaded Map Map0004.lmu
+[2024-08-17 21:47:04] Debug: Tree: MAP0004 夢部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:05] Debug: Loaded Map Map0005.lmu
+[2024-08-17 21:47:05] Debug: Tree: MAP0005 夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:05] Debug: Loaded Map Map0004.lmu
+[2024-08-17 21:47:05] Debug: Tree: MAP0004 夢部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:10] Debug: Loaded Map Map0005.lmu
+[2024-08-17 21:47:10] Debug: Tree: MAP0005 夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:10] Debug: Loaded Map Map0004.lmu
+[2024-08-17 21:47:10] Debug: Tree: MAP0004 夢部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:11] Debug: Loaded Map Map0005.lmu
+[2024-08-17 21:47:11] Debug: Tree: MAP0005 夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:11] Debug: Loaded Map Map0004.lmu
+[2024-08-17 21:47:11] Debug: Tree: MAP0004 夢部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:11] Debug: Loaded Map Map0005.lmu
+[2024-08-17 21:47:11] Debug: Tree: MAP0005 夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:12] Debug: Loaded Map Map0004.lmu
+[2024-08-17 21:47:12] Debug: Tree: MAP0004 夢部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:13] Debug: Loaded Map Map0005.lmu
+[2024-08-17 21:47:13] Debug: Tree: MAP0005 夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:13] Debug: Loaded Map Map0004.lmu
+[2024-08-17 21:47:13] Debug: Tree: MAP0004 夢部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:14] Debug: Loaded Map Map0005.lmu
+[2024-08-17 21:47:14] Debug: Tree: MAP0005 夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:14] Debug: Loaded Map Map0004.lmu
+[2024-08-17 21:47:14] Debug: Tree: MAP0004 夢部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:14] Debug: Loaded Map Map0005.lmu
+[2024-08-17 21:47:14] Debug: Tree: MAP0005 夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:15] Debug: Loaded Map Map0004.lmu
+[2024-08-17 21:47:15] Debug: Tree: MAP0004 夢部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:15] Debug: Loaded Map Map0005.lmu
+[2024-08-17 21:47:15] Debug: Tree: MAP0005 夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:16] Debug: Loaded Map Map0004.lmu
+[2024-08-17 21:47:16] Debug: Tree: MAP0004 夢部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:17] Debug: Loaded Map Map0005.lmu
+[2024-08-17 21:47:17] Debug: Tree: MAP0005 夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:17] Debug: Loaded Map Map0004.lmu
+[2024-08-17 21:47:17] Debug: Tree: MAP0004 夢部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:17] Debug: Loaded Map Map0005.lmu
+[2024-08-17 21:47:17] Debug: Tree: MAP0005 夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:18] Debug: Loaded Map Map0004.lmu
+[2024-08-17 21:47:18] Debug: Tree: MAP0004 夢部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:18] Debug: Loaded Map Map0005.lmu
+[2024-08-17 21:47:18] Debug: Tree: MAP0005 夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:19] Debug: Loaded Map Map0004.lmu
+[2024-08-17 21:47:19] Debug: Tree: MAP0004 夢部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:19] Debug: Loaded Map Map0005.lmu
+[2024-08-17 21:47:19] Debug: Tree: MAP0005 夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:19] Debug: Loaded Map Map0004.lmu
+[2024-08-17 21:47:19] Debug: Tree: MAP0004 夢部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:20] Debug: Loaded Map Map0005.lmu
+[2024-08-17 21:47:20] Debug: Tree: MAP0005 夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:20] Debug: Loaded Map Map0004.lmu
+[2024-08-17 21:47:20] Debug: Tree: MAP0004 夢部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:47:22] Debug: Loaded Map Map0010.lmu
+[2024-08-17 21:47:22] Debug: Tree: MAP0010 扉部屋
+[2024-08-17 21:47:22] Debug: libpng: iCCP: known incorrect sRGB profile
+[2024-08-17 21:48:33] Debug: Loaded Map Map0091.lmu
+[2024-08-17 21:48:33] Debug: Tree: MAP0091 ぴぬ_RED < MAP0010 扉部屋
+[2024-08-17 21:48:37] Debug: Can't add item to party. 0 is not a valid item ID.
+[2024-08-17 21:48:44] Debug: Can't add item to party. 0 is not a valid item ID. [2x]
+[2024-08-17 21:48:44] Debug: Loaded Map Map1241.lmu
+[2024-08-17 21:48:44] Debug: Tree: MAP1241 ぬあー　球状宇宙 < MAP0010 扉部屋
+[2024-08-17 21:49:12] Debug: Can't add item to party. 0 is not a valid item ID.
+[2024-08-17 21:49:13] Debug: Loaded Map Map1242.lmu
+[2024-08-17 21:49:13] Debug: Tree: MAP1242 < MAP1241 ぬあー　球状宇宙 < MAP0010 扉部屋
+[2024-08-17 21:49:14] Debug: Loaded Map Map1243.lmu
+[2024-08-17 21:49:14] Debug: Tree: MAP1243　夢解け水 < MAP1241 ぬあー　球状宇宙 < MAP0010 扉部屋
+[2024-08-17 21:49:41] Debug: Loaded Map Map1244.lmu
+[2024-08-17 21:49:41] Debug: Tree: MAP1244　institution < MAP1241 ぬあー　球状宇宙 < MAP0010 扉部屋
+[2024-08-17 21:49:42] Debug: Fluidsynth: Could not load soundfont.
+[2024-08-17 21:49:42] Debug: WildMidi: Could not find configuration file.
+[2024-08-17 21:51:10] Debug: Loaded Map Map1245.lmu
+[2024-08-17 21:51:10] Debug: Tree: MAP1245　カルカリナ海 < MAP1244　institution < MAP1241 ぬあー　球状宇宙 < MAP0010 扉部屋
+[2024-08-17 21:51:14] Debug: Can't add item to party. 0 is not a valid item ID.
+[2024-08-17 21:52:00] Debug: Can't add item to party. 0 is not a valid item ID. [2x]
+[2024-08-17 21:52:00] Debug: Loaded Map Map1255.lmu
+[2024-08-17 21:52:00] Debug: Tree: MAP1255 ｵﾔｽﾐは星の下で < MAP1245　カルカリナ海 < MAP1244　institution < MAP1241 ぬあー　球状宇宙 < MAP0010 扉部屋
+[2024-08-17 21:54:30] Debug: Loaded Map Map0900.lmu
+[2024-08-17 21:54:30] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:54:30] Debug: Can't add item to party. 0 is not a valid item ID.
+[2024-08-17 21:54:30] Debug: Event 0 exceeded execution limit
+[2024-08-17 21:54:30] Debug: Event 0 exceeded execution limit [2x]
+[2024-08-17 21:54:30] Debug: SetVehicleLocation: Party referenced
+[2024-08-17 21:54:30] Debug: Loaded Map Map0899.lmu
+[2024-08-17 21:54:30] Debug: Tree: MAP0899 壁紙ｷﾞｬﾗﾘｰ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:54:30] Debug: Event 2 exceeded execution limit
+[2024-08-17 21:54:30] Debug: SetVehicleLocation: Party referenced
+[2024-08-17 21:54:30] Debug: Loaded Map Map0620.lmu
+[2024-08-17 21:54:30] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:54:30] Debug: Event 2 exceeded execution limit
+[2024-08-17 21:54:30] Debug: Event 2 exceeded execution limit [4x]
+[2024-08-17 21:54:30] Debug: Event 1 exceeded execution limit
+[2024-08-17 21:54:30] Debug: Event 1 exceeded execution limit [2x]
+[2024-08-17 21:54:30] Debug: SetVehicleLocation: Party referenced
+[2024-08-17 21:54:30] Debug: Loaded Map Map0900.lmu
+[2024-08-17 21:54:30] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:54:30] Debug: Loaded Map Map0002.lmu
+[2024-08-17 21:54:30] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:54:34] Debug: SetVehicleLocation: Party referenced
+[2024-08-17 21:54:34] Debug: Loaded Map Map0899.lmu
+[2024-08-17 21:54:34] Debug: Tree: MAP0899 壁紙ｷﾞｬﾗﾘｰ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:54:34] Debug: SetVehicleLocation: Party referenced
+[2024-08-17 21:54:34] Debug: Loaded Map Map0002.lmu
+[2024-08-17 21:54:34] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:54:35] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-17 21:54:35] Debug: Saving to Save01.lsd
+[2024-08-17 21:54:37] Debug: SetVehicleLocation: Party referenced
+[2024-08-17 21:54:37] Debug: Loaded Map Map0899.lmu
+[2024-08-17 21:54:37] Debug: Tree: MAP0899 壁紙ｷﾞｬﾗﾘｰ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:54:46] Debug: SetVehicleLocation: Party referenced
+[2024-08-17 21:54:46] Debug: Loaded Map Map0002.lmu
+[2024-08-17 21:54:46] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:54:49] Debug: SetVehicleLocation: Party referenced
+[2024-08-17 21:54:49] Debug: Loaded Map Map0899.lmu
+[2024-08-17 21:54:49] Debug: Tree: MAP0899 壁紙ｷﾞｬﾗﾘｰ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:55:26] Debug: SetVehicleLocation: Party referenced
+[2024-08-17 21:55:26] Debug: Loaded Map Map0002.lmu
+[2024-08-17 21:55:26] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:55:30] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-17 21:55:32] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2024-08-17 21:55:32] Debug: Saving to Save01.lsd
+[2024-08-17 21:55:35] Debug: SetVehicleLocation: Party referenced
+[2024-08-17 21:55:35] Debug: Loaded Map Map0899.lmu
+[2024-08-17 21:55:35] Debug: Tree: MAP0899 壁紙ｷﾞｬﾗﾘｰ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:55:40] Debug: SetVehicleLocation: Party referenced
+[2024-08-17 21:55:40] Debug: Loaded Map Map0002.lmu
+[2024-08-17 21:55:40] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:55:50] Debug: SetVehicleLocation: Party referenced
+[2024-08-17 21:55:50] Debug: Loaded Map Map0899.lmu
+[2024-08-17 21:55:50] Debug: Tree: MAP0899 壁紙ｷﾞｬﾗﾘｰ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:56:03] Debug: SetVehicleLocation: Party referenced
+[2024-08-17 21:56:03] Debug: Loaded Map Map0002.lmu
+[2024-08-17 21:56:03] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:56:06] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-08-17 21:56:06] Debug: Saving to Save01.lsd
+[2024-08-17 21:56:21] Debug: Loaded Map Map0003.lmu
+[2024-08-17 21:56:21] Debug: Tree: MAP0003 現実ﾍﾞﾗﾝﾀﾞ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:56:22] Debug: Loaded Map Map0002.lmu
+[2024-08-17 21:56:22] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:56:22] Debug: Event 0 exceeded execution limit
+[2024-08-17 21:56:31] Debug: Loaded Map Map0900.lmu
+[2024-08-17 21:56:31] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:56:31] Debug: Loaded Map Map0005.lmu
+[2024-08-17 21:56:31] Debug: Tree: MAP0005 夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-08-17 21:56:34] Debug: Configuration saved to C:/Users/robmc/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-08-17 21:56:34] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-08-17 21:56:34] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2024-08-17 21:56:34] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2024-08-17 21:56:34] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-08-17 21:56:34] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2024-08-23 22:44:39] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-08-23 22:44:39] Debug: =======================================
+[2024-08-23 22:44:39] Debug: CLI: 
+[2024-08-23 22:44:39] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-08-23 22:44:39] Debug: Seeded the RNG with 1724445872.
+[2024-08-23 22:44:39] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-08-23 22:44:39] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-08-23 22:44:39] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-08-23 22:44:39] Debug: Detected encoding: ibm-943_P15A-2003
+[2024-08-23 22:44:39] Debug: Game and Save Directory:
+[2024-08-23 22:44:39] Debug: 1: [Native]  -> ゆめ2っき
+[2024-08-23 22:44:39] Debug: Loading game ゆめ2っき
+[2024-08-23 22:44:39] Debug: Analyzing RPG_RT ゆめ2っき/RPG_RT.exe
+[2024-08-23 22:44:39] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2024-08-23 22:44:39] Debug: ExFont loaded from RPG_RT
+[2024-08-23 22:44:39] Debug: EXEReader: VERSIONINFO not found
+[2024-08-23 22:44:39] Debug: RPG_RT information: version= logos=1 i386=true easyrpg=false
+[2024-08-23 22:44:39] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2024-08-23 22:44:39] Debug: RTP path C:\Users\robmc\Documents\RTP\ is invalid, not adding
+[2024-08-23 22:44:39] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-08-23 22:44:39] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-08-23 22:44:39] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2024-08-23 22:44:39] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2024-08-23 22:44:39] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-08-23 22:44:39] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2024-08-23 22:44:39] Debug: Cannot find: Font/Font
+[2024-08-23 22:44:39] Debug: Cannot find: Font/Font2
+[2024-08-23 22:44:39] Debug: Resolution changed to 320x240
+[2024-08-23 22:45:07] Debug: Configuration saved to C:/Users/robmc/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-08-23 22:45:07] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-08-23 22:45:07] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2024-08-23 22:45:07] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2024-08-23 22:45:07] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-08-23 22:45:07] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2024-09-06 22:28:42] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-09-06 22:28:42] Debug: =======================================
+[2024-09-06 22:28:42] Debug: CLI: 
+[2024-09-06 22:28:42] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-09-06 22:28:42] Debug: Seeded the RNG with 1725654371.
+[2024-09-06 22:28:42] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-09-06 22:28:42] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-09-06 22:28:42] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-09-06 22:28:42] Debug: Detected encoding: ibm-943_P15A-2003
+[2024-09-06 22:28:42] Debug: Game and Save Directory:
+[2024-09-06 22:28:42] Debug: 1: [Native]  -> ゆめ2っき
+[2024-09-06 22:28:42] Debug: Loading game ゆめ2っき
+[2024-09-06 22:28:42] Debug: Analyzing RPG_RT ゆめ2っき/RPG_RT.exe
+[2024-09-06 22:28:42] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2024-09-06 22:28:42] Debug: ExFont loaded from RPG_RT
+[2024-09-06 22:28:42] Debug: EXEReader: VERSIONINFO not found
+[2024-09-06 22:28:42] Debug: RPG_RT information: version= logos=1 i386=true easyrpg=false
+[2024-09-06 22:28:42] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2024-09-06 22:28:42] Debug: RTP path C:\Users\robmc\Documents\RTP\ is invalid, not adding
+[2024-09-06 22:28:42] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-09-06 22:28:42] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-09-06 22:28:42] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2024-09-06 22:28:42] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2024-09-06 22:28:42] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-09-06 22:28:42] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2024-09-06 22:28:42] Debug: Cannot find: Font/Font
+[2024-09-06 22:28:42] Debug: Cannot find: Font/Font2
+[2024-09-06 22:28:42] Debug: Resolution changed to 320x240
+[2024-09-06 22:29:18] Debug: Loading Save Save01.lsd
+[2024-09-06 22:29:18] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2024-09-06 22:29:18] Debug: Loaded Map Map0002.lmu
+[2024-09-06 22:29:18] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-06 22:29:19] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-09-06 22:29:20] Debug: SetVehicleLocation: Party referenced
+[2024-09-06 22:29:20] Debug: Loaded Map Map0899.lmu
+[2024-09-06 22:29:20] Debug: Tree: MAP0899 壁紙ｷﾞｬﾗﾘｰ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-06 22:29:20] Debug: Event 2 exceeded execution limit
+[2024-09-06 22:29:20] Debug: SetVehicleLocation: Party referenced
+[2024-09-06 22:29:20] Debug: Loaded Map Map0620.lmu
+[2024-09-06 22:29:20] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-06 22:29:20] Debug: Event 2 exceeded execution limit
+[2024-09-06 22:29:20] Debug: Event 1 exceeded execution limit
+[2024-09-06 22:29:20] Debug: Event 2 exceeded execution limit
+[2024-09-06 22:29:20] Debug: Event 2 exceeded execution limit [2x]
+[2024-09-06 22:29:20] Debug: Event 1 exceeded execution limit
+[2024-09-06 22:29:20] Debug: Event 1 exceeded execution limit [2x]
+[2024-09-06 22:29:20] Debug: SetVehicleLocation: Party referenced
+[2024-09-06 22:29:20] Debug: Loaded Map Map0002.lmu
+[2024-09-06 22:29:20] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-06 22:30:26] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-09-06 22:30:27] Debug: Saving to Save01.lsd
+[2024-09-06 22:30:42] Debug: Loaded Map Map0003.lmu
+[2024-09-06 22:30:42] Debug: Tree: MAP0003 現実ﾍﾞﾗﾝﾀﾞ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-06 22:30:55] Debug: Loaded Map Map0002.lmu
+[2024-09-06 22:30:55] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-06 22:30:55] Debug: Event 0 exceeded execution limit
+[2024-09-06 22:31:00] Debug: Loaded Map Map0900.lmu
+[2024-09-06 22:31:00] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-06 22:31:00] Debug: Loaded Map Map0005.lmu
+[2024-09-06 22:31:00] Debug: Tree: MAP0005 夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-06 22:31:04] Debug: Loaded Map Map0004.lmu
+[2024-09-06 22:31:04] Debug: Tree: MAP0004 夢部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-06 22:31:23] Debug: Loaded Map Map0010.lmu
+[2024-09-06 22:31:23] Debug: Tree: MAP0010 扉部屋
+[2024-09-06 22:31:23] Debug: libpng: iCCP: known incorrect sRGB profile
+[2024-09-06 22:31:38] Debug: Loaded Map Map0061.lmu
+[2024-09-06 22:31:38] Debug: Tree: MAP0061 710_紫地世界 < MAP0010 扉部屋
+[2024-09-06 22:31:38] Debug: libpng: iCCP: known incorrect sRGB profile
+[2024-09-06 22:32:31] Debug: Loaded Map Map1377.lmu
+[2024-09-06 22:32:31] Debug: Tree: MAP1377 monastery < MAP1371 Sniperbob < MAP1261 Kontentsu < MAP0010 扉部屋
+[2024-09-06 22:34:35] Debug: Loaded Map Map1373.lmu
+[2024-09-06 22:34:35] Debug: Tree: MAP1373 T-creature world < MAP1371 Sniperbob < MAP1261 Kontentsu < MAP0010 扉部屋
+[2024-09-06 22:35:20] Debug: Loaded Map Map0900.lmu
+[2024-09-06 22:35:20] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-06 22:35:20] Debug: Can't add item to party. 0 is not a valid item ID.
+[2024-09-06 22:35:20] Debug: Can't add item to party. 0 is not a valid item ID. [2x]
+[2024-09-06 22:35:20] Debug: Event 0 exceeded execution limit
+[2024-09-06 22:35:20] Debug: Event 0 exceeded execution limit [2x]
+[2024-09-06 22:35:20] Debug: SetVehicleLocation: Party referenced
+[2024-09-06 22:35:20] Debug: Loaded Map Map0899.lmu
+[2024-09-06 22:35:20] Debug: Tree: MAP0899 壁紙ｷﾞｬﾗﾘｰ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-06 22:35:20] Debug: Event 2 exceeded execution limit
+[2024-09-06 22:35:20] Debug: SetVehicleLocation: Party referenced
+[2024-09-06 22:35:20] Debug: Loaded Map Map0620.lmu
+[2024-09-06 22:35:20] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-06 22:35:20] Debug: Event 2 exceeded execution limit
+[2024-09-06 22:35:20] Debug: Event 2 exceeded execution limit [4x]
+[2024-09-06 22:35:20] Debug: Event 1 exceeded execution limit
+[2024-09-06 22:35:20] Debug: Event 1 exceeded execution limit [2x]
+[2024-09-06 22:35:20] Debug: SetVehicleLocation: Party referenced
+[2024-09-06 22:35:20] Debug: Loaded Map Map0900.lmu
+[2024-09-06 22:35:20] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-06 22:35:20] Debug: Loaded Map Map0002.lmu
+[2024-09-06 22:35:20] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-06 22:35:24] Debug: SetVehicleLocation: Party referenced
+[2024-09-06 22:35:24] Debug: Loaded Map Map0899.lmu
+[2024-09-06 22:35:24] Debug: Tree: MAP0899 壁紙ｷﾞｬﾗﾘｰ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-06 22:35:24] Debug: SetVehicleLocation: Party referenced
+[2024-09-06 22:35:24] Debug: Loaded Map Map0002.lmu
+[2024-09-06 22:35:24] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-06 22:35:26] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-09-06 22:35:27] Debug: Saving to Save01.lsd
+[2024-09-06 22:37:43] Debug: Configuration saved to C:/Users/robmc/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-09-06 22:37:43] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-09-06 22:37:43] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2024-09-06 22:37:43] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2024-09-06 22:37:43] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-09-06 22:37:43] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2024-09-11 00:09:22] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-09-11 00:09:22] Debug: =======================================
+[2024-09-11 00:09:22] Debug: CLI: 
+[2024-09-11 00:09:22] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-09-11 00:09:22] Debug: Seeded the RNG with 1726006133.
+[2024-09-11 00:09:22] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-09-11 00:09:22] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-09-11 00:09:22] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-09-11 00:09:22] Debug: Detected encoding: ibm-943_P15A-2003
+[2024-09-11 00:09:22] Debug: Game and Save Directory:
+[2024-09-11 00:09:22] Debug: 1: [Native]  -> ゆめ2っき
+[2024-09-11 00:09:22] Debug: Loading game ゆめ2っき
+[2024-09-11 00:09:22] Debug: Analyzing RPG_RT ゆめ2っき/RPG_RT.exe
+[2024-09-11 00:09:22] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2024-09-11 00:09:22] Debug: ExFont loaded from RPG_RT
+[2024-09-11 00:09:22] Debug: EXEReader: VERSIONINFO not found
+[2024-09-11 00:09:22] Debug: RPG_RT information: version= logos=1 i386=true easyrpg=false
+[2024-09-11 00:09:22] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2024-09-11 00:09:22] Debug: RTP path C:\Users\robmc\Documents\RTP\ is invalid, not adding
+[2024-09-11 00:09:22] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-09-11 00:09:22] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-09-11 00:09:22] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2024-09-11 00:09:22] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2024-09-11 00:09:22] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-09-11 00:09:22] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2024-09-11 00:09:22] Debug: Cannot find: Font/Font
+[2024-09-11 00:09:22] Debug: Cannot find: Font/Font2
+[2024-09-11 00:09:22] Debug: Resolution changed to 320x240
+[2024-09-11 00:10:22] Debug: Changing language to: 'en'
+[2024-09-11 00:10:22] Debug: Translation loaded 1 sys, 0 common, 1 battle, and 128 map .po files
+[2024-09-11 00:10:22] Debug: Cannot find: Font/Font
+[2024-09-11 00:10:22] Debug: Cannot find: Font/Font2
+[2024-09-11 00:10:22] Debug: Resolution changed to 320x240
+[2024-09-11 00:10:25] Debug: Loading Save Save01.lsd
+[2024-09-11 00:10:25] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2024-09-11 00:10:25] Debug: Loaded Map Map0002.lmu
+[2024-09-11 00:10:25] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:10:26] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-09-11 00:10:27] Debug: SetVehicleLocation: Party referenced
+[2024-09-11 00:10:27] Debug: Loaded Map Map0899.lmu
+[2024-09-11 00:10:27] Debug: Tree: MAP0899 壁紙ｷﾞｬﾗﾘｰ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:10:27] Debug: Event 2 exceeded execution limit
+[2024-09-11 00:10:27] Debug: SetVehicleLocation: Party referenced
+[2024-09-11 00:10:27] Debug: Loaded Map Map0620.lmu
+[2024-09-11 00:10:27] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:10:27] Debug: Event 2 exceeded execution limit
+[2024-09-11 00:10:27] Debug: Event 1 exceeded execution limit
+[2024-09-11 00:10:27] Debug: Event 2 exceeded execution limit
+[2024-09-11 00:10:27] Debug: Event 2 exceeded execution limit [2x]
+[2024-09-11 00:10:27] Debug: Event 1 exceeded execution limit
+[2024-09-11 00:10:27] Debug: Event 2 exceeded execution limit
+[2024-09-11 00:10:27] Debug: SetVehicleLocation: Party referenced
+[2024-09-11 00:10:27] Debug: Loaded Map Map0002.lmu
+[2024-09-11 00:10:27] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:10:34] Debug: Loaded Map Map0003.lmu
+[2024-09-11 00:10:34] Debug: Tree: MAP0003 現実ﾍﾞﾗﾝﾀﾞ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:10:37] Debug: Loaded Map Map0002.lmu
+[2024-09-11 00:10:37] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:10:37] Debug: Event 0 exceeded execution limit
+[2024-09-11 00:10:40] Debug: Loaded Map Map0900.lmu
+[2024-09-11 00:10:40] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:10:40] Debug: Loaded Map Map0005.lmu
+[2024-09-11 00:10:40] Debug: Tree: MAP0005 夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:10:42] Debug: Loaded Map Map0004.lmu
+[2024-09-11 00:10:42] Debug: Tree: MAP0004 夢部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:10:44] Debug: Event 0 exceeded execution limit
+[2024-09-11 00:10:59] Debug: Loaded Map Map0900.lmu
+[2024-09-11 00:10:59] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:10:59] Debug: Can't add item to party. 0 is not a valid item ID.
+[2024-09-11 00:10:59] Debug: Can't add item to party. 0 is not a valid item ID. [2x]
+[2024-09-11 00:10:59] Debug: Event 0 exceeded execution limit
+[2024-09-11 00:10:59] Debug: Event 0 exceeded execution limit [2x]
+[2024-09-11 00:10:59] Debug: SetVehicleLocation: Party referenced
+[2024-09-11 00:10:59] Debug: Loaded Map Map0899.lmu
+[2024-09-11 00:10:59] Debug: Tree: MAP0899 壁紙ｷﾞｬﾗﾘｰ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:10:59] Debug: Event 2 exceeded execution limit
+[2024-09-11 00:10:59] Debug: SetVehicleLocation: Party referenced
+[2024-09-11 00:10:59] Debug: Loaded Map Map0620.lmu
+[2024-09-11 00:10:59] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:10:59] Debug: Event 2 exceeded execution limit
+[2024-09-11 00:10:59] Debug: Event 2 exceeded execution limit [4x]
+[2024-09-11 00:10:59] Debug: Event 1 exceeded execution limit
+[2024-09-11 00:10:59] Debug: Event 1 exceeded execution limit [2x]
+[2024-09-11 00:10:59] Debug: SetVehicleLocation: Party referenced
+[2024-09-11 00:10:59] Debug: Loaded Map Map0900.lmu
+[2024-09-11 00:10:59] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:10:59] Debug: Loaded Map Map0002.lmu
+[2024-09-11 00:10:59] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:11:03] Debug: Loaded Map Map0003.lmu
+[2024-09-11 00:11:03] Debug: Tree: MAP0003 現実ﾍﾞﾗﾝﾀﾞ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:11:05] Debug: Loaded Map Map0002.lmu
+[2024-09-11 00:11:05] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:11:05] Debug: Event 0 exceeded execution limit
+[2024-09-11 00:11:32] Debug: Loaded Map Map0900.lmu
+[2024-09-11 00:11:32] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:11:32] Debug: Loaded Map Map0005.lmu
+[2024-09-11 00:11:32] Debug: Tree: MAP0005 夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:11:34] Debug: Can't add item to party. 0 is not a valid item ID.
+[2024-09-11 00:11:36] Debug: Can't add item to party. 0 is not a valid item ID. [4x]
+[2024-09-11 00:11:36] Debug: Loaded Map Map0004.lmu
+[2024-09-11 00:11:36] Debug: Tree: MAP0004 夢部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:11:38] Debug: Event 0 exceeded execution limit
+[2024-09-11 00:11:47] Debug: Loaded Map Map0010.lmu
+[2024-09-11 00:11:47] Debug: Tree: MAP0010 扉部屋
+[2024-09-11 00:11:47] Debug: libpng: iCCP: known incorrect sRGB profile
+[2024-09-11 00:11:51] Debug: Can't add item to party. 0 is not a valid item ID.
+[2024-09-11 00:12:14] Debug: Can't add item to party. 0 is not a valid item ID. [2x]
+[2024-09-11 00:12:14] Debug: Loaded Map Map2338.lmu
+[2024-09-11 00:12:14] Debug: Tree: MAP2338 urbanwalls < MAP2331 openbreeze < MAP1851 中津 < MAP0010 扉部屋
+[2024-09-11 00:12:30] Debug: Loaded Map Map2339.lmu
+[2024-09-11 00:12:30] Debug: Tree: MAP2339 nailportal < MAP2338 urbanwalls < MAP2331 openbreeze < MAP1851 中津 < MAP0010 扉部屋
+[2024-09-11 00:12:40] Debug: Loaded Map Map0188.lmu
+[2024-09-11 00:12:40] Debug: Tree: MAP0188 20_傷跡 < MAP0051 20_ｶﾗｰ < MAP0010 扉部屋
+[2024-09-11 00:12:42] Debug: Invalid write var[0] = 0!
+[2024-09-11 00:13:52] Debug: Loaded Map Map2339.lmu
+[2024-09-11 00:13:52] Debug: Tree: MAP2339 nailportal < MAP2338 urbanwalls < MAP2331 openbreeze < MAP1851 中津 < MAP0010 扉部屋
+[2024-09-11 00:13:55] Debug: Loaded Map Map0188.lmu
+[2024-09-11 00:13:55] Debug: Tree: MAP0188 20_傷跡 < MAP0051 20_ｶﾗｰ < MAP0010 扉部屋
+[2024-09-11 00:14:09] Debug: Loaded Map Map0900.lmu
+[2024-09-11 00:14:09] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:14:09] Debug: Can't add item to party. 0 is not a valid item ID.
+[2024-09-11 00:14:09] Debug: Event 0 exceeded execution limit
+[2024-09-11 00:14:09] Debug: Event 0 exceeded execution limit [2x]
+[2024-09-11 00:14:09] Debug: SetVehicleLocation: Party referenced
+[2024-09-11 00:14:09] Debug: Loaded Map Map0899.lmu
+[2024-09-11 00:14:09] Debug: Tree: MAP0899 壁紙ｷﾞｬﾗﾘｰ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:14:09] Debug: Event 2 exceeded execution limit
+[2024-09-11 00:14:09] Debug: SetVehicleLocation: Party referenced
+[2024-09-11 00:14:09] Debug: Loaded Map Map0620.lmu
+[2024-09-11 00:14:09] Debug: Tree: MAP0620 310_SR分室 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:14:09] Debug: Event 2 exceeded execution limit
+[2024-09-11 00:14:09] Debug: Event 2 exceeded execution limit [4x]
+[2024-09-11 00:14:09] Debug: Event 1 exceeded execution limit
+[2024-09-11 00:14:09] Debug: Event 1 exceeded execution limit [2x]
+[2024-09-11 00:14:09] Debug: SetVehicleLocation: Party referenced
+[2024-09-11 00:14:09] Debug: Loaded Map Map0900.lmu
+[2024-09-11 00:14:09] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:14:09] Debug: Loaded Map Map0002.lmu
+[2024-09-11 00:14:09] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:14:12] Debug: SetVehicleLocation: Party referenced
+[2024-09-11 00:14:12] Debug: Loaded Map Map0899.lmu
+[2024-09-11 00:14:12] Debug: Tree: MAP0899 壁紙ｷﾞｬﾗﾘｰ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:14:12] Debug: SetVehicleLocation: Party referenced
+[2024-09-11 00:14:12] Debug: Loaded Map Map0002.lmu
+[2024-09-11 00:14:12] Debug: Tree: MAP0002 現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2024-09-11 00:14:14] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-09-11 00:14:15] Debug: Saving to Save01.lsd
+[2024-09-11 00:14:16] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-09-11 00:14:36] Debug: Saving to Save01.lsd
+[2024-09-11 00:14:37] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-09-11 00:14:37] Debug: Saving to Save01.lsd
+[2024-09-11 00:14:38] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2024-09-11 00:14:38] Debug: Saving to Save01.lsd
+[2024-09-11 00:14:45] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-09-11 00:14:45] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2024-09-11 00:14:45] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2024-09-11 00:14:45] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-09-11 00:14:45] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2024-09-11 00:14:45] Debug: Resolution changed to 320x240
+[2024-09-11 00:15:00] Debug: Configuration saved to C:/Users/robmc/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-09-12 21:59:41] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-09-12 21:59:41] Debug: =======================================
+[2024-09-12 21:59:41] Debug: CLI: 
+[2024-09-12 21:59:41] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-09-12 21:59:41] Debug: Seeded the RNG with 1726171175.
+[2024-09-12 21:59:41] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-09-12 21:59:41] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-09-12 21:59:41] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-09-12 21:59:41] Debug: Detected encoding: ibm-943_P15A-2003
+[2024-09-12 21:59:41] Debug: Game and Save Directory:
+[2024-09-12 21:59:41] Debug: 1: [Native]  -> ゆめ2っき
+[2024-09-12 21:59:41] Debug: Loading game ゆめ2っき
+[2024-09-12 21:59:41] Debug: Analyzing RPG_RT ゆめ2っき/RPG_RT.exe
+[2024-09-12 21:59:41] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2024-09-12 21:59:41] Debug: ExFont loaded from RPG_RT
+[2024-09-12 21:59:41] Debug: EXEReader: VERSIONINFO not found
+[2024-09-12 21:59:41] Debug: RPG_RT information: version= logos=1 i386=true easyrpg=false
+[2024-09-12 21:59:41] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2024-09-12 21:59:41] Debug: RTP path C:\Users\robmc\Documents\RTP\ is invalid, not adding
+[2024-09-12 21:59:41] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-09-12 21:59:41] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-09-12 21:59:41] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2024-09-12 21:59:41] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2024-09-12 21:59:41] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-09-12 21:59:41] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2024-09-12 21:59:41] Debug: Cannot find: Font/Font
+[2024-09-12 21:59:41] Debug: Cannot find: Font/Font2
+[2024-09-12 21:59:41] Debug: Resolution changed to 320x240
+[2024-09-12 21:59:43] Debug: Configuration saved to C:/Users/robmc/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-09-12 21:59:43] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-09-12 21:59:43] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2024-09-12 21:59:43] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2024-09-12 21:59:43] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2024-09-12 21:59:43] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)

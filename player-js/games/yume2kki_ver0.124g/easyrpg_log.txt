@@ -1,0 +1,9 @@
+[2024-09-05 23:07:18] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-09-05 23:07:18] Debug: =======================================
+[2024-09-05 23:07:18] Debug: CLI: 
+[2024-09-05 23:07:18] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-09-05 23:07:18] Debug: Seeded the RNG with 1725569512.
+[2024-09-05 23:07:18] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-09-05 23:07:18] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-09-05 23:07:18] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-09-05 23:07:18] Debug: Configuration saved to C:/Users/robmc/AppData/Roaming/EasyRPG/Player/config.ini
